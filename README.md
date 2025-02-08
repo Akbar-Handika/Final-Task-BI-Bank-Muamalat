@@ -18,14 +18,16 @@ What I did:
 4. Data analysis & business insights – Providing actionable recommendations to support strategic decision-making.
 
 ## 📊 Dashboard Preview 
-![Dashboard Screenshot](Dashboard.png)
+Click on the image below to open the interactive dashboard:  
+
+[![Tableau Dashboard](Dashboard.png)](https://public.tableau.com/views/SalesPerformanceDashboard_17384082028770/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 🛠️ Tools & Technologies Used:
 - PostgreSQL – For data storage and SQL queries.
--  Tableau – For creating insightful data visualizations.
--   GitHub – For storing SQL queries and analysis results.
--   Canva – For structuring reports and presentations.
--   YouTube – For presenting a project summary video.
+- Tableau – For creating insightful data visualizations.
+- GitHub – For storing SQL queries and analysis results.
+- Canva – For structuring reports and presentations.
+- YouTube – For presenting a project summary video.
 
 Through this experience, I gained a deeper understanding of Business Intelligence workflows and enhanced my skills in SQL, data visualization, and data-driven problem-solving.
 

@@ -1,5 +1,9 @@
 Project-Based Virtual Intern: Business Intelligence Analyst - Bank Muamalat X Rakamin Academy
+
+
 Bank Muamalat Indonesia offers a Project-Based Virtual Internship program for aspiring Business Intelligence (BI) Analysts in collaboration with Rakamin Academy. This program provides participants with hands-on experience in data analysis, visualization, and reporting, utilizing tools such as Google BigQuery and Google Data Studio. Interns are tasked with processing raw datasets into insightful dashboards, enabling them to uncover valuable business insights. The program is designed to equip interns with practical skills and knowledge, preparing them for professional roles in the field of business intelligence. 
+
+
 I participated in the Business Intelligence Analyst Virtual Internship, a project-based program designed to provide real-world experience in the role of a Business Intelligence Analyst in the banking industry, specifically at Bank Muamalat.
 
 The program began with reading materials and video learning sessions, covering fundamental concepts of Business Intelligence, SQL, and data visualization. I also completed several assessments to evaluate my understanding before working on the final project.

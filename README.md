@@ -18,7 +18,7 @@ What I did:
 4. Data analysis & business insights – Providing actionable recommendations to support strategic decision-making.
 
 ## 📊 Dashboard Preview 
-![Dashboard Screenshot](https://github.com/Akbar-Handika/Final-Task-BI-Bank-Muamalat/Dashboard.png](https://github.com/Akbar-Handika/Final-Task-BI-Bank-Muamalat/blob/main/Dashboard.png)
+![Dashboard Screenshot](Dashboard.png)
 
 ## 🛠️ Tools & Technologies Used:
 - PostgreSQL – For data storage and SQL queries.

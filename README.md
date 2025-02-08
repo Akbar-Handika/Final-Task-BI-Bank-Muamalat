@@ -1,4 +1,4 @@
-Project-Based Virtual Intern: Business Intelligence Analyst - Bank Muamalat X Rakamin Academy
+#Project-Based Virtual Intern: Business Intelligence Analyst - Bank Muamalat X Rakamin Academy
 
 
 Bank Muamalat Indonesia offers a Project-Based Virtual Internship program for aspiring Business Intelligence (BI) Analysts in collaboration with Rakamin Academy. This program provides participants with hands-on experience in data analysis, visualization, and reporting, utilizing tools such as Google BigQuery and Google Data Studio. Interns are tasked with processing raw datasets into insightful dashboards, enabling them to uncover valuable business insights. The program is designed to equip interns with practical skills and knowledge, preparing them for professional roles in the field of business intelligence. 
@@ -12,17 +12,19 @@ Final Project: Business Intelligence for Sales Performance Analysis
 As part of the final project, I took on the role of a Business Intelligence Analyst at PT Sejahtera Bersama, where I analyzed sales performance and provided data-driven business recommendations.
 
 What I did:
-✅ Data preparation – Uploading datasets to PostgreSQL, cleaning and transforming data using SQL queries, establishing relationships between tables, and structuring the database for efficient querying and analysis.
-✅ Master table creation – Using SQL to build structured tables for analysis.
-✅ Dashboard development – Designing interactive dashboards in Tableau to visualize sales trends, top product categories, and sales distribution by location.
-✅ Data analysis & business insights – Providing actionable recommendations to support strategic decision-making.
+1. Data preparation – Uploading datasets to PostgreSQL, cleaning and transforming data using SQL queries, establishing relationships between tables, and structuring the database for efficient querying and analysis.
+2. Master table creation – Using SQL to build structured tables for analysis.
+3. Dashboard development – Designing interactive dashboards in Tableau to visualize sales trends, top product categories, and sales distribution by location.
+4. Data analysis & business insights – Providing actionable recommendations to support strategic decision-making.
 
+## 📊 Dashboard Preview 
+![Dashboard Screenshot](https://github.com/Akbar-Handika/Final-Task-BI-Bank-Muamalat/Dashboard.png)
 Tools & Technologies Used:
-🔹 PostgreSQL – For data storage and SQL queries.
-🔹 Tableau – For creating insightful data visualizations.
-🔹 GitHub – For storing SQL queries and analysis results.
-🔹 Canva – For structuring reports and presentations.
-🔹 YouTube – For presenting a project summary video.
+- PostgreSQL – For data storage and SQL queries.
+-  Tableau – For creating insightful data visualizations.
+-   GitHub – For storing SQL queries and analysis results.
+-   Canva – For structuring reports and presentations.
+-   YouTube – For presenting a project summary video.
 
 Through this experience, I gained a deeper understanding of Business Intelligence workflows and enhanced my skills in SQL, data visualization, and data-driven problem-solving.
 

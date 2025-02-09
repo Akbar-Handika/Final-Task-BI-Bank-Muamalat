@@ -17,7 +17,7 @@ What I did:
 3. Dashboard development – Designing interactive dashboards in Tableau to visualize sales trends, top product categories, and sales distribution by location.
 4. Data analysis & business insights – Providing actionable recommendations to support strategic decision-making.
 
-## Presentation Preview
+## 🖼️ Presentation Preview
 Click on the image below to open the presentation: 
 [![Preview PPT](https://github.com/Akbar-Handika/Final-Task-BI-Bank-Muamalat/blob/eb3247125caf7275c1fba474508bd97172b61134/Sales%20Performance%20Report%20Preview.jpeg)](https://www.canva.com/design/DAGd9SGieHY/c1EQBVpVG46VEuuDi9z9ug/edit?utm_content=DAGd9SGieHY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 

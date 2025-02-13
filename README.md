@@ -24,7 +24,7 @@ Click on the image below to open the presentation:
 ## 📊 Dashboard Preview 
 Click on the image below to open the interactive dashboard:  
 
-[![Tableau Dashboard](Dashboard.png)](https://public.tableau.com/views/SalesPerformanceDashboard_17384082028770/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Tableau Dashboard](https://github.com/Akbar-Handika/Final-Task-BI-Bank-Muamalat/blob/d1e140419d191f2b56bb68227318076075b0250f/Dashboard.png)](https://public.tableau.com/views/SalesPerformanceDashboard_17384082028770/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 🛠️ Tools & Technologies Used:
 - PostgreSQL – For data storage and SQL queries.
